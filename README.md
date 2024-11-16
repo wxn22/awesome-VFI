@@ -1,3 +1,3 @@
 # awesome-VFI
 ## papers
-- [Requests](https://github.com/mulns/PerVFI) - Perception-Oriented Video Frame Interpolation via Asymmetric Blending.
+- [Perception-Oriented Video Frame Interpolation via Asymmetric Blending](https://github.com/mulns/PerVFI).
